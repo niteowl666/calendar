@@ -30,6 +30,11 @@ h1 {
     width: 40%;
 }
 
+.carousel-control-prev,.carousel-control-next {
+    height: fit-content;
+    top: 50%;
+}
+
 @media (max-width: 768px) {
     video {
         width: 100vw; 
@@ -40,7 +45,7 @@ h1 {
     }
 
     .carousel-control-next, .carousel-control-prev {
-        top: 60%;
+        top: 80%;
     }
     .carousel-control-next {
         right: 30%;
