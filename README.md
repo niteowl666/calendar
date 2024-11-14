@@ -1,3 +1,1 @@
-# calendar-demo
-# calendar
 # calendar
